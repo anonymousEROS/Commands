@@ -1,0 +1,5 @@
+# ninja log v5
+0	31	1649990798870992406	CMakeFiles/Project_1.dir/wcat.c.o	5c50ec3605b68cf9
+1	37	1649990798871610692	CMakeFiles/Project_1.dir/wunzip.c.o	a42eeb425fd058a0
+1	36	1649990798872603849	CMakeFiles/Project_1.dir/wgrep.c.o	e1706d2f7033422a
+1	37	1649990798872056604	CMakeFiles/Project_1.dir/wzip.c.o	bb809bc5a1a041c3
